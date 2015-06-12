@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "WorkshopApplication"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-WorkshopApplication-40f617ca-9b04-4e2f-9025-91418b316ff1;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
